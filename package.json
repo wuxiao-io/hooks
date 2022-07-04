@@ -1,0 +1,28 @@
+{
+  "name": "hooks",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuxiao-io/hooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuxiao-io/hooks/issues"
+  },
+  "homepage": "https://github.com/wuxiao-io/hooks#readme",
+  "devDependencies": {
+    "@swc/cli": "^0.1.57",
+    "@swc/core": "^1.2.208",
+    "@swc/helpers": "^0.4.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
