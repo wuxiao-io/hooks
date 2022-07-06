@@ -1,0 +1,7 @@
+node_modules
+dist
+lib
+.docusaurus
+.eslintrc.js
+.swcrc
+lib
