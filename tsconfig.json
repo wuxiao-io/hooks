@@ -12,7 +12,8 @@
     "outDir": "dist",
     "strict": true,
     "lib": [
-      "ES2020"
+      "ES2020",
+      "dom"
     ],
     "baseUrl": ".",
     "forceConsistentCasingInFileNames": true,
@@ -20,7 +21,7 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "moduleResolution": "Node",
-    "skipLibCheck": true,
+    "skipLibCheck": true
   },
   "include": [
     "src/**/*"

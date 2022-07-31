@@ -20,7 +20,7 @@
 - [ ] useTheme
 - [ ] useSpring
 - [ ] useHistory
-- [ ] useScript
+- [x] useScript
 - [ ] useKeyPress
 - [ ] useDebounce
 - [ ] useOnScreen
