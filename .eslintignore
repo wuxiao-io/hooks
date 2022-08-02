@@ -5,3 +5,5 @@ lib
 .eslintrc.js
 .swcrc
 lib
+
+jest.config.ts

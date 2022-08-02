@@ -3,9 +3,11 @@
 ## Todo
 
 - [x] Config ESLint
-- [ ] Config Github Actions
+- [x] Integrate Jest
+  - [ ] Check `@testing-library/react` is support react18.2.0 **(2022-09-01)**
+  - [ ] Check `@testing-library/react-hooks` is support react18.2.0 **(2022-09-01)**
 - [ ] Publish NPM Repo
-- [ ] Integrate Jest
+- [ ] Config Github Actions
 
 ## Hooks need to implement
 
