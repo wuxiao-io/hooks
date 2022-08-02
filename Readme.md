@@ -9,12 +9,16 @@
 - [ ] Publish NPM Repo
 - [ ] Config Github Actions
 
+### Business
+
+- [ ] refactor useScript and useToggle's folder structure like useBoolean
+
 ## Hooks need to implement
 
 - [ ] useAnimation
 - [ ] useAsync
 - [ ] useAuth
-- [ ] useBoolean
+- [x] useBoolean
 - [ ] useClickAnyWhere
 - [ ] useCopyToClipboard
 - [ ] useCountdown
