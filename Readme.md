@@ -28,7 +28,7 @@
 - [ ] useDarkMode
 - [ ] useDebounce
 - [ ] useDebouncedValue
-- [ ] useDidMount
+- [x] useDidMount
 - [ ] useDidUpdate
 - [ ] useDimensionsRef
 - [ ] useDocumentEventListener
