@@ -115,4 +115,4 @@
 - [ ] useWindowEffectListener
 - [ ] useWindowScrollPosition
 - [ ] useWindowSize
-- [ ] useWillUnmount
+- [x] useWillUnmount
