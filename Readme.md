@@ -56,7 +56,7 @@
 - [ ] useIsFirstRender
 - [ ] useIsMounted
 - [ ] useIsomorphicEffect
-- [ ] useIsomorphicLayoutEffect
+- [x] useIsomorphicLayoutEffect
 - [ ] useKey
 - [ ] useKeyBindings
 - [ ] useKeyPress
