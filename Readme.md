@@ -21,7 +21,7 @@
 - [x] useBoolean
 - [ ] useBoundingclientrect
 - [ ] useBoundingclientrectRef
-- [ ] useClickAnyWhere
+- [x] useClickAnyWhere
 - [ ] useCopyToClipboard
 - [ ] useCountdown
 - [ ] useCounter
