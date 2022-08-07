@@ -116,3 +116,17 @@
 - [ ] useWindowScrollPosition
 - [ ] useWindowSize
 - [x] useWillUnmount
+
+## Inspire from other project
+
+### famous repo
+
+- [streamich](https://github.com/streamich)/**[react-use](https://github.com/streamich/react-use)** - React Hooks — 👍
+- [alibaba](https://github.com/alibaba?type=source)/**[hooks](https://github.com/alibaba/hooks)** - A high-quality & reliable React Hooks library.
+- [uidotdev](https://github.com/uidotdev?type=source)/**[usehooks](https://github.com/uidotdev/usehooks)** - Easy to understand React Hook code recipes
+- [juliencrn](https://github.com/juliencrn)/**[usehooks-ts](https://github.com/juliencrn/usehooks-ts)** - React hook library, ready to use, written in Typescript.
+- [imbhargav5](https://github.com/imbhargav5)/**[rooks](https://github.com/imbhargav5/rooks)** - Essential React custom hooks ⚓ to super charge your components!
+
+### project
+
+- https://github.com/SoulSwapFinance/soul-interface/tree/develop-v3/src/hooks
