@@ -15,6 +15,7 @@ module.exports = {
     "@typescript-eslint"
   ],
   "rules": {
-    "no-redeclare": "off"
+    "no-redeclare": "off",
+    "no-undef": "off",
   }
 }

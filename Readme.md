@@ -35,7 +35,7 @@
 - [ ] useEffectOnce
 - [ ] useEffectOnceWhen
 - [ ] useElementSize
-- [ ] useEventListener
+- [x] useEventListener
 - [ ] useFetch
 - [ ] useForkRef
 - [ ] useFullscreen
