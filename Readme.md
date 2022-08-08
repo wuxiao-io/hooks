@@ -24,7 +24,7 @@
 - [x] useClickAnyWhere
 - [ ] useCopyToClipboard
 - [ ] useCountdown
-- [ ] useCounter
+- [x] useCounter
 - [ ] useDarkMode
 - [ ] useDebounce
 - [ ] useDebouncedValue
@@ -33,7 +33,7 @@
 - [ ] useDimensionsRef
 - [ ] useDocumentEventListener
 - [x] useEffectOnce
-- [ ] useEffectOnceWhen
+- [x] useEffectOnceWhen
 - [ ] useElementSize
 - [x] useEventListener
 - [ ] useFetch
