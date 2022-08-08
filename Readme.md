@@ -32,7 +32,7 @@
 - [ ] useDidUpdate
 - [ ] useDimensionsRef
 - [ ] useDocumentEventListener
-- [ ] useEffectOnce
+- [x] useEffectOnce
 - [ ] useEffectOnceWhen
 - [ ] useElementSize
 - [x] useEventListener
