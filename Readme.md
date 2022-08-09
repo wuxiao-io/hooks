@@ -48,7 +48,7 @@
 - [ ] useImageOnLoad
 - [ ] useInput
 - [ ] useIntersectionObserver
-- [ ] useInterval
+- [x] useInterval
 - [ ] useIntervalWhen
 - [ ] useInViewRef
 - [ ] useIntersectionObserverRef
