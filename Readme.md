@@ -23,7 +23,7 @@
 - [ ] useBoundingclientrectRef
 - [x] useClickAnyWhere
 - [ ] useCopyToClipboard
-- [ ] useCountdown
+- [x] useCountdown
 - [x] useCounter
 - [ ] useDarkMode
 - [ ] useDebounce
