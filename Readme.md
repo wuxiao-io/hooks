@@ -87,7 +87,7 @@
 - [ ] usePreviousDifferent
 - [ ] usePreviousImmediate
 - [ ] useQueueState
-- [ ] useRaf
+- [x] useRaf
 - [ ] useReadLocalStorage
 - [ ] useRefElement
 - [ ] useRequireAuth
@@ -100,7 +100,7 @@
 - [ ] useSpring
 - [ ] useSsr
 - [ ] useStackState
-- [ ] useStep
+- [x] useStep
 - [ ] useTernaryDarkMode
 - [ ] useTheme
 - [ ] useThrottle

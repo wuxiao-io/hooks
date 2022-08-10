@@ -8,7 +8,9 @@ import { useEffectOnceWhen } from './useEffectOnceWhen'
 import { useEventListener } from './useEventListener'
 import { useIsomorphicLayoutEffect } from './useIsomorphicLayoutEffect'
 import { useInterval } from './useInterval'
+import { useRaf } from './useRaf'
 import useScript from './useScript'
+import { useStep } from './useStep'
 import useToggle from './useToggle'
 import { useWillUnmount } from './useWillUnmount'
 
@@ -23,7 +25,9 @@ export {
   useEventListener,
   useIsomorphicLayoutEffect,
   useInterval,
+  useRaf,
   useScript,
+  useStep,
   useToggle,
   useWillUnmount
 }
