@@ -8,6 +8,7 @@ import { useEffectOnceWhen } from './useEffectOnceWhen'
 import { useEventListener } from './useEventListener'
 import { useIsomorphicLayoutEffect } from './useIsomorphicLayoutEffect'
 import { useInterval } from './useInterval'
+import { useOutsideClick } from './useOutsideClick'
 import { useRaf } from './useRaf'
 import useScript from './useScript'
 import { useSelect } from './useSelect'
@@ -26,6 +27,7 @@ export {
   useEventListener,
   useIsomorphicLayoutEffect,
   useInterval,
+  useOutsideClick,
   useRaf,
   useScript,
   useSelect,

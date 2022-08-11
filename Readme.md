@@ -79,7 +79,7 @@
 - [ ] useOnClickOutside
 - [ ] useOnScreen
 - [ ] useOutline
-- [ ] useOutsideClick
+- [x] useOutsideClick
 - [ ] useOutsideClickRef
 - [ ] useWindowResize
 - [ ] useWindowScroll
