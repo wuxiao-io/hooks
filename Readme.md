@@ -105,7 +105,7 @@
 - [ ] useTheme
 - [ ] useThrottle
 - [ ] useThrottleWhen
-- [ ] useTimeout
+- [x] useTimeout
 - [ ] useTimeoutWhen
 - [x] useToggle
 - [ ] useUndoState
