@@ -93,7 +93,7 @@
 - [ ] useRequireAuth
 - [ ] useScreen
 - [x] useScript
-- [ ] useSelect
+- [x] useSelect
 - [ ] useSelectableList
 - [ ] useSessionStorage
 - [ ] useSessionStorageState

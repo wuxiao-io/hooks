@@ -10,6 +10,7 @@ import { useIsomorphicLayoutEffect } from './useIsomorphicLayoutEffect'
 import { useInterval } from './useInterval'
 import { useRaf } from './useRaf'
 import useScript from './useScript'
+import { useSelect } from './useSelect'
 import { useStep } from './useStep'
 import useToggle from './useToggle'
 import { useWillUnmount } from './useWillUnmount'
@@ -27,6 +28,7 @@ export {
   useInterval,
   useRaf,
   useScript,
+  useSelect,
   useStep,
   useToggle,
   useWillUnmount
