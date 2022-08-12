@@ -66,7 +66,7 @@
 - [ ] useLocalStorageState
 - [ ] useLockBodyScroll
 - [ ] useLockedBody
-- [ ] useMap
+- [x] useMap
 - [ ] useMapState
 - [ ] useMediaMatch
 - [ ] useMediaQuery

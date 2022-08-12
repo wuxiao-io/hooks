@@ -8,6 +8,7 @@ import { useEffectOnceWhen } from './useEffectOnceWhen'
 import { useEventListener } from './useEventListener'
 import { useIsomorphicLayoutEffect } from './useIsomorphicLayoutEffect'
 import { useInterval } from './useInterval'
+import { useMap } from './useMap'
 import { useOutsideClick } from './useOutsideClick'
 import { useOutsideClickRef } from './useOutsideClickRef'
 import { useRaf } from './useRaf'
@@ -30,6 +31,7 @@ export {
   useEventListener,
   useIsomorphicLayoutEffect,
   useInterval,
+  useMap,
   useOutsideClick,
   useOutsideClickRef,
   useRaf,
