@@ -9,6 +9,7 @@ import { useEventListener } from './useEventListener'
 import { useIsomorphicLayoutEffect } from './useIsomorphicLayoutEffect'
 import { useInterval } from './useInterval'
 import { useOutsideClick } from './useOutsideClick'
+import { useOutsideClickRef } from './useOutsideClickRef'
 import { useRaf } from './useRaf'
 import useScript from './useScript'
 import { useSelect } from './useSelect'
@@ -28,6 +29,7 @@ export {
   useIsomorphicLayoutEffect,
   useInterval,
   useOutsideClick,
+  useOutsideClickRef,
   useRaf,
   useScript,
   useSelect,

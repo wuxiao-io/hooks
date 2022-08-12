@@ -80,7 +80,7 @@
 - [ ] useOnScreen
 - [ ] useOutline
 - [x] useOutsideClick
-- [ ] useOutsideClickRef
+- [x] useOutsideClickRef
 - [ ] useWindowResize
 - [ ] useWindowScroll
 - [ ] usePrevious

@@ -1,25 +1,37 @@
-import { MutableRefObject, useCallback, useEffect, useRef } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
+import type { HTMLElementOrNull, CallbackRef } from '../types/types'
 import { noop } from '../utils/noop'
 
-function useOutsideClick (
-  ref: MutableRefObject<HTMLElement | null>,
+/**
+ * useOutsideClickRef hook
+ * Clicks if a click happened outside a Ref, Handy for dropdowns, modals and popups etc.
+ * @param handler handler Callback to fire on outside click
+ * @param when
+ */
+function useOutsideClickRef (
   handler: (event: MouseEvent | TouchEvent) => void,
   when = true
-): void {
+): [CallbackRef] {
   const savedHandler = useRef(handler)
+
+  const [node, setNode] = useState<HTMLElementOrNull>(null)
 
   const memoizedCallback = useCallback(
     (event: MouseEvent | TouchEvent) => {
-      if (ref.current && !ref.current?.contains(event.target as Element)) {
+      if (node && !node.contains(event.target as Element)) {
         savedHandler.current(event)
       }
     },
-    [ref]
+    [node]
   )
 
   useEffect(() => {
     savedHandler.current = handler
   })
+
+  const ref = useCallback((nodeElement: HTMLElementOrNull) => {
+    setNode(nodeElement)
+  }, [])
 
   useEffect(() => {
     if (when) {
@@ -33,7 +45,9 @@ function useOutsideClick (
     }
 
     return noop
-  }, [ref, handler, when, memoizedCallback])
+  }, [when, memoizedCallback])
+
+  return [ref]
 }
 
-export default useOutsideClick
+export default useOutsideClickRef
