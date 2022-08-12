@@ -106,7 +106,7 @@
 - [ ] useThrottle
 - [ ] useThrottleWhen
 - [x] useTimeout
-- [ ] useTimeoutWhen
+- [x] useTimeoutWhen
 - [x] useToggle
 - [ ] useUndoState
 - [ ] useUpdateEffect

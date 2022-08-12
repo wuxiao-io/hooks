@@ -14,6 +14,8 @@ import { useRaf } from './useRaf'
 import useScript from './useScript'
 import { useSelect } from './useSelect'
 import { useStep } from './useStep'
+import { useTimeout } from './useTimeout'
+import { useTimeoutWhen } from './useTimeoutWhen'
 import useToggle from './useToggle'
 import { useWillUnmount } from './useWillUnmount'
 
@@ -34,6 +36,8 @@ export {
   useScript,
   useSelect,
   useStep,
+  useTimeout,
+  useTimeoutWhen,
   useToggle,
   useWillUnmount
 }
