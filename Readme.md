@@ -54,7 +54,7 @@
 - [ ] useIntersectionObserverRef
 - [ ] useIsClient
 - [ ] useIsFirstRender
-- [ ] useIsMounted
+- [x] useIsMounted
 - [ ] useIsomorphicEffect
 - [x] useIsomorphicLayoutEffect
 - [ ] useKey
