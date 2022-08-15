@@ -7,6 +7,7 @@ import { useEffectOnce } from './useEffectOnce'
 import { useEffectOnceWhen } from './useEffectOnceWhen'
 import { useEventListener } from './useEventListener'
 import { useIsMounted } from './useIsMounted'
+import { useIsomorphicEffect } from './useIsomorphicEffect'
 import { useIsomorphicLayoutEffect } from './useIsomorphicLayoutEffect'
 import { useInterval } from './useInterval'
 import { useMap } from './useMap'
@@ -31,6 +32,7 @@ export {
   useEffectOnceWhen,
   useEventListener,
   useIsMounted,
+  useIsomorphicEffect,
   useIsomorphicLayoutEffect,
   useInterval,
   useMap,

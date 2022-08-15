@@ -55,7 +55,7 @@
 - [ ] useIsClient
 - [ ] useIsFirstRender
 - [x] useIsMounted
-- [ ] useIsomorphicEffect
+- [x] useIsomorphicEffect
 - [x] useIsomorphicLayoutEffect
 - [ ] useKey
 - [ ] useKeyBindings
