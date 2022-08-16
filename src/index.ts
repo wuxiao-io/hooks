@@ -12,6 +12,7 @@ import { useIsomorphicLayoutEffect } from './useIsomorphicLayoutEffect'
 import { useInterval } from './useInterval'
 import { useMap } from './useMap'
 import { useMapState } from './useMapState'
+import { useMergeRefs } from './useMergeRefs'
 import { useOutsideClick } from './useOutsideClick'
 import { useOutsideClickRef } from './useOutsideClickRef'
 import { useQueueState } from './useQueueState'
@@ -39,6 +40,7 @@ export {
   useInterval,
   useMap,
   useMapState,
+  useMergeRefs,
   useOutsideClick,
   useOutsideClickRef,
   useQueueState,
