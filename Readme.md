@@ -86,7 +86,7 @@
 - [ ] usePrevious
 - [ ] usePreviousDifferent
 - [ ] usePreviousImmediate
-- [ ] useQueueState
+- [x] useQueueState
 - [x] useRaf
 - [ ] useReadLocalStorage
 - [ ] useRefElement

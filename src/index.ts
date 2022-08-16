@@ -13,6 +13,7 @@ import { useInterval } from './useInterval'
 import { useMap } from './useMap'
 import { useOutsideClick } from './useOutsideClick'
 import { useOutsideClickRef } from './useOutsideClickRef'
+import { useQueueState } from './useQueueState'
 import { useRaf } from './useRaf'
 import useScript from './useScript'
 import { useSelect } from './useSelect'
@@ -38,6 +39,7 @@ export {
   useMap,
   useOutsideClick,
   useOutsideClickRef,
+  useQueueState,
   useRaf,
   useScript,
   useSelect,
