@@ -67,7 +67,7 @@
 - [ ] useLockBodyScroll
 - [ ] useLockedBody
 - [x] useMap
-- [ ] useMapState
+- [x] useMapState
 - [ ] useMediaMatch
 - [ ] useMediaQuery
 - [ ] useMergeRefs
