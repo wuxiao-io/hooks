@@ -35,6 +35,7 @@
 - [x] useEffectOnce
 - [x] useEffectOnceWhen
 - [ ] useElementSize
+- [x] useEventCallback
 - [x] useEventListener
 - [ ] useFetch
 - [ ] useForkRef
@@ -62,7 +63,7 @@
 - [ ] useKeyPress
 - [ ] useKeyRef
 - [ ] useLifecycleLogger
-- [ ] useLocalStorage
+- [x] useLocalStorage
 - [ ] useLocalStorageState
 - [ ] useLockBodyScroll
 - [ ] useLockedBody

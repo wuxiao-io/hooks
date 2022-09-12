@@ -5,11 +5,13 @@ import { useCounterdown } from './useCounterdown'
 import { useDidMount } from './useDidMount'
 import { useEffectOnce } from './useEffectOnce'
 import { useEffectOnceWhen } from './useEffectOnceWhen'
+import { useEventCallback } from './useEventCallback'
 import { useEventListener } from './useEventListener'
 import { useIsMounted } from './useIsMounted'
 import { useIsomorphicEffect } from './useIsomorphicEffect'
 import { useIsomorphicLayoutEffect } from './useIsomorphicLayoutEffect'
 import { useInterval } from './useInterval'
+import { useLocalStorage } from './useLocalStorage'
 import { useMap } from './useMap'
 import { useMapState } from './useMapState'
 import { useMergeRefs } from './useMergeRefs'
@@ -33,11 +35,13 @@ export {
   useDidMount,
   useEffectOnce,
   useEffectOnceWhen,
+  useEventCallback,
   useEventListener,
   useIsMounted,
   useIsomorphicEffect,
   useIsomorphicLayoutEffect,
   useInterval,
+  useLocalStorage,
   useMap,
   useMapState,
   useMergeRefs,
