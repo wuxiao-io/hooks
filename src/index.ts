@@ -7,6 +7,8 @@ import { useEffectOnce } from './useEffectOnce'
 import { useEffectOnceWhen } from './useEffectOnceWhen'
 import { useEventCallback } from './useEventCallback'
 import { useEventListener } from './useEventListener'
+import { useFullScreen } from './useFullScreen'
+import { useIsFirstRender } from './useIsFirstRender'
 import { useIsMounted } from './useIsMounted'
 import { useIsomorphicEffect } from './useIsomorphicEffect'
 import { useIsomorphicLayoutEffect } from './useIsomorphicLayoutEffect'
@@ -37,6 +39,8 @@ export {
   useEffectOnceWhen,
   useEventCallback,
   useEventListener,
+  useFullScreen,
+  useIsFirstRender,
   useIsMounted,
   useIsomorphicEffect,
   useIsomorphicLayoutEffect,
