@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react'
-import { noop } from '../utils/noop'
+import { noop } from '../utils/util'
 
 function useTimeoutWhen (
   callback: () => void,

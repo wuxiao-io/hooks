@@ -39,7 +39,7 @@
 - [x] useEventListener
 - [ ] useFetch
 - [ ] useForkRef
-- [ ] useFullscreen
+- [x] useFullscreen
 - [ ] useFreshRef
 - [ ] useFreshTick
 - [ ] useGeolocation

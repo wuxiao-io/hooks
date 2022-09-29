@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 import type { HTMLElementOrNull, CallbackRef } from '../types/types'
-import { noop } from '../utils/noop'
+import { noop } from '../utils/util'
 
 /**
  * useOutsideClickRef hook

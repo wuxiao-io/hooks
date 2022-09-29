@@ -1,5 +1,5 @@
 import { MutableRefObject, useCallback, useEffect, useRef } from 'react'
-import { noop } from '../utils/noop'
+import { noop } from '../utils/util'
 
 function useOutsideClick (
   ref: MutableRefObject<HTMLElement | null>,
