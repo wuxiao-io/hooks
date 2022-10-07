@@ -23,6 +23,7 @@ import { useQueueState } from './useQueueState'
 import { useRaf } from './useRaf'
 import { useScript } from './useScript'
 import { useSelect } from './useSelect'
+import { useStateWithCallback, useStateWithCallbackInstant, useStateWithCallbackLazy } from './useStateWithCallback'
 import { useStep } from './useStep'
 import { useTimeout } from './useTimeout'
 import { useTimeoutWhen } from './useTimeoutWhen'
@@ -55,6 +56,9 @@ export {
   useRaf,
   useScript,
   useSelect,
+  useStateWithCallback,
+  useStateWithCallbackInstant,
+  useStateWithCallbackLazy,
   useStep,
   useTimeout,
   useTimeoutWhen,

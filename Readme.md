@@ -101,6 +101,7 @@
 - [ ] useSpring
 - [ ] useSsr
 - [ ] useStackState
+- [x] useStateWithCallback
 - [x] useStep
 - [ ] useTernaryDarkMode
 - [ ] useTheme
