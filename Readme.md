@@ -111,7 +111,7 @@
 - [x] useTimeoutWhen
 - [x] useToggle
 - [ ] useUndoState
-- [ ] useUpdateEffect
+- [x] useUpdateEffect
 - [ ] useVisibilitySensor
 - [ ] useWhyDidYouUpdate
 - [ ] useWindowEffectListener

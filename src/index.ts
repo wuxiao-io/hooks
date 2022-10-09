@@ -28,6 +28,7 @@ import { useStep } from './useStep'
 import { useTimeout } from './useTimeout'
 import { useTimeoutWhen } from './useTimeoutWhen'
 import useToggle from './useToggle'
+import { useUpdateEffect } from './useUpdateEffect'
 import { useWillUnmount } from './useWillUnmount'
 
 export {
@@ -63,5 +64,6 @@ export {
   useTimeout,
   useTimeoutWhen,
   useToggle,
+  useUpdateEffect,
   useWillUnmount
 }
