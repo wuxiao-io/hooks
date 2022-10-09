@@ -70,7 +70,7 @@
 - [x] useMap
 - [x] useMapState
 - [ ] useMediaMatch
-- [ ] useMediaQuery
+- [x] useMediaQuery
 - [x] useMergeRefs
 - [ ] useMouse
 - [ ] useMultiSelectableList

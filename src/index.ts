@@ -16,6 +16,7 @@ import { useInterval } from './useInterval'
 import { useLocalStorage } from './useLocalStorage'
 import { useMap } from './useMap'
 import { useMapState } from './useMapState'
+import { useMediaQuery } from './useMediaQuery'
 import { useMergeRefs } from './useMergeRefs'
 import { useOutsideClick } from './useOutsideClick'
 import { useOutsideClickRef } from './useOutsideClickRef'
@@ -50,6 +51,7 @@ export {
   useLocalStorage,
   useMap,
   useMapState,
+  useMediaQuery,
   useMergeRefs,
   useOutsideClick,
   useOutsideClickRef,
