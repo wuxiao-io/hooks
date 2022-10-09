@@ -2,6 +2,7 @@ import { useBoolean } from './useBoolean'
 import { useClickAnyWhere } from './useClickAnyWhere'
 import { useCounter } from './useCounter'
 import { useCounterdown } from './useCounterdown'
+import { useDarkMode } from './useDarkMode'
 import { useDidMount } from './useDidMount'
 import { useEffectOnce } from './useEffectOnce'
 import { useEffectOnceWhen } from './useEffectOnceWhen'
@@ -37,6 +38,7 @@ export {
   useClickAnyWhere,
   useCounter,
   useCounterdown,
+  useDarkMode,
   useDidMount,
   useEffectOnce,
   useEffectOnceWhen,

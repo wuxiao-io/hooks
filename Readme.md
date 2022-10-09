@@ -25,7 +25,7 @@
 - [ ] useCopyToClipboard
 - [x] useCountdown
 - [x] useCounter
-- [ ] useDarkMode
+- [x] useDarkMode
 - [ ] useDebounce
 - [ ] useDebouncedValue
 - [x] useDidMount
