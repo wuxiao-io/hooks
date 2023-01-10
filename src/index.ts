@@ -1,5 +1,6 @@
 import { useBoolean } from './useBoolean'
 import { useClickAnyWhere } from './useClickAnyWhere'
+import { useCopyToClipboard } from './useCopyToClipboard'
 import { useCounter } from './useCounter'
 import { useCounterdown } from './useCounterdown'
 import { useDarkMode } from './useDarkMode'
@@ -36,6 +37,7 @@ import { useWillUnmount } from './useWillUnmount'
 export {
   useBoolean,
   useClickAnyWhere,
+  useCopyToClipboard,
   useCounter,
   useCounterdown,
   useDarkMode,
