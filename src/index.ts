@@ -1,3 +1,5 @@
+import { useAsync } from './useAsync'
+import { useAsyncFn } from './useAsyncFn'
 import { useBoolean } from './useBoolean'
 import { useClickAnyWhere } from './useClickAnyWhere'
 import { useCopyToClipboard } from './useCopyToClipboard'
@@ -20,6 +22,7 @@ import { useMap } from './useMap'
 import { useMapState } from './useMapState'
 import { useMediaQuery } from './useMediaQuery'
 import { useMergeRefs } from './useMergeRefs'
+import { useMountedState } from './useMountedState'
 import { useOutsideClick } from './useOutsideClick'
 import { useOutsideClickRef } from './useOutsideClickRef'
 import { useQueueState } from './useQueueState'
@@ -35,6 +38,8 @@ import { useUpdateEffect } from './useUpdateEffect'
 import { useWillUnmount } from './useWillUnmount'
 
 export {
+  useAsync,
+  useAsyncFn,
   useBoolean,
   useClickAnyWhere,
   useCopyToClipboard,
@@ -57,6 +62,7 @@ export {
   useMapState,
   useMediaQuery,
   useMergeRefs,
+  useMountedState,
   useOutsideClick,
   useOutsideClickRef,
   useQueueState,

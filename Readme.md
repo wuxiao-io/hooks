@@ -16,7 +16,8 @@
 ## Hooks need to implement
 
 - [ ] useAnimation
-- [ ] useAsync
+- [x] useAsync
+- [x] useAsyncFn
 - [ ] useAuth
 - [x] useBoolean
 - [ ] useBoundingclientrect
@@ -72,6 +73,7 @@
 - [ ] useMediaMatch
 - [x] useMediaQuery
 - [x] useMergeRefs
+- [x] useMountedState
 - [ ] useMouse
 - [ ] useMultiSelectableList
 - [ ] useMutationObserver

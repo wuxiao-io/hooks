@@ -9,3 +9,5 @@ export type CallbackRef<T extends HTMLElement | null = HTMLElementOrNull> = (
 ) => void
 
 export type PossibleRef<T> = Ref<T> | undefined
+
+export type FunctionReturningPromise = (...args: any[]) => Promise<any>;
