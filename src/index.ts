@@ -1,3 +1,4 @@
+import { useAnimation } from './useAnimation'
 import { useAsync } from './useAsync'
 import { useAsyncFn } from './useAsyncFn'
 import { useBoolean } from './useBoolean'
@@ -38,6 +39,7 @@ import { useUpdateEffect } from './useUpdateEffect'
 import { useWillUnmount } from './useWillUnmount'
 
 export {
+  useAnimation,
   useAsync,
   useAsyncFn,
   useBoolean,

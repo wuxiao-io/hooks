@@ -4,8 +4,8 @@
 
 - [x] Config ESLint
 - [x] Integrate Jest
-  - [ ] Check `@testing-library/react` is support react18.2.0 **(2022-09-01)**
-  - [ ] Check `@testing-library/react-hooks` is support react18.2.0 **(2022-09-01)**
+  - [ ] Check `@testing-library/react` is support react18.2.0 **(2023-02-01)**
+  - [ ] Check `@testing-library/react-hooks` is support react18.2.0 **(2023-02-01)**
 - [ ] Publish NPM Repo
 - [ ] Config Github Actions
 
@@ -15,7 +15,7 @@
 
 ## Hooks need to implement
 
-- [ ] useAnimation
+- [x] useAnimation
 - [x] useAsync
 - [x] useAsyncFn
 - [ ] useAuth
