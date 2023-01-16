@@ -36,6 +36,7 @@ import { useTimeout } from './useTimeout'
 import { useTimeoutWhen } from './useTimeoutWhen'
 import useToggle from './useToggle'
 import { useUpdateEffect } from './useUpdateEffect'
+import { useWhyDidYouUpdate } from './useWhyDidYouUpdate'
 import { useWillUnmount } from './useWillUnmount'
 
 export {
@@ -79,5 +80,6 @@ export {
   useTimeoutWhen,
   useToggle,
   useUpdateEffect,
+  useWhyDidYouUpdate,
   useWillUnmount
 }

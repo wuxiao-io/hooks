@@ -115,7 +115,7 @@
 - [ ] useUndoState
 - [x] useUpdateEffect
 - [ ] useVisibilitySensor
-- [ ] useWhyDidYouUpdate
+- [x] useWhyDidYouUpdate
 - [ ] useWindowEffectListener
 - [ ] useWindowScrollPosition
 - [ ] useWindowSize
