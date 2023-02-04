@@ -2,6 +2,7 @@ import { useAnimation } from './useAnimation'
 import { useAsync } from './useAsync'
 import { useAsyncFn } from './useAsyncFn'
 import { useBoolean } from './useBoolean'
+import { useBoundingclientrect } from './useBoundingclientrect'
 import { useClickAnyWhere } from './useClickAnyWhere'
 import { useCopyToClipboard } from './useCopyToClipboard'
 import { useCounter } from './useCounter'
@@ -24,6 +25,7 @@ import { useMapState } from './useMapState'
 import { useMediaQuery } from './useMediaQuery'
 import { useMergeRefs } from './useMergeRefs'
 import { useMountedState } from './useMountedState'
+import { useMutationObserver } from './useMutationObserver'
 import { useOutsideClick } from './useOutsideClick'
 import { useOutsideClickRef } from './useOutsideClickRef'
 import { useQueueState } from './useQueueState'
@@ -44,6 +46,7 @@ export {
   useAsync,
   useAsyncFn,
   useBoolean,
+  useBoundingclientrect,
   useClickAnyWhere,
   useCopyToClipboard,
   useCounter,
@@ -66,6 +69,7 @@ export {
   useMediaQuery,
   useMergeRefs,
   useMountedState,
+  useMutationObserver,
   useOutsideClick,
   useOutsideClickRef,
   useQueueState,

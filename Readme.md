@@ -20,7 +20,7 @@
 - [x] useAsyncFn
 - [ ] useAuth
 - [x] useBoolean
-- [ ] useBoundingclientrect
+- [x] useBoundingclientrect
 - [ ] useBoundingclientrectRef
 - [x] useClickAnyWhere
 - [x] useCopyToClipboard
@@ -76,7 +76,7 @@
 - [x] useMountedState
 - [ ] useMouse
 - [ ] useMultiSelectableList
-- [ ] useMutationObserver
+- [x] useMutationObserver
 - [ ] useMutationObserverRef
 - [ ] useNavigatorLanguage
 - [ ] useOnClickOutside
@@ -138,3 +138,8 @@
 ### article
 
 - [React Hook: useRunOnce](https://dev.to/perssondennis/react-hook-userunonce-48a8?utm_source=dormosheio&utm_campaign=dormosheio)
+- [Use LocalStorage Hook in React with TypeScript](https://radzion.medium.com/use-localstorage-hook-in-react-with-typescript-acd213f7b209)
+- [useEnv() | Custom Hook | React](https://medium.com/@hawaiidev/useenv-custom-hook-react-c9ad8b0a1f93?source=explore---------2-98--------------------f4808087_7012_40ec_833e_a10b2c35d373-------15)
+- [Understanding react-singleton-hook](https://tech.groww.in/understanding-react-singleton-hook-a5e7b69348a3?source=collection_home---4------0-----------------------)
+- [React useElementSize Hook Code Example](https://code.morioh.com/47a9c0bd09a5)
+- [Using requestAnimationFrame with React Hooks](https://css-tricks.com/using-requestanimationframe-with-react-hooks/)
