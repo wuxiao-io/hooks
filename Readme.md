@@ -46,7 +46,7 @@
 - [ ] useGeolocation
 - [ ] useGetIsMounted
 - [ ] useHistory
-- [ ] useHover
+- [x] useHover
 - [ ] useImageOnLoad
 - [ ] useInput
 - [ ] useIntersectionObserver

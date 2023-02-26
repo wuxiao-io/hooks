@@ -15,6 +15,7 @@ import { useEffectOnceWhen } from './useEffectOnceWhen'
 import { useEventCallback } from './useEventCallback'
 import { useEventListener } from './useEventListener'
 import { useFullScreen } from './useFullScreen'
+import { useHover } from './useHover'
 import { useIsFirstRender } from './useIsFirstRender'
 import { useIsMounted } from './useIsMounted'
 import { useIsomorphicEffect } from './useIsomorphicEffect'
@@ -60,6 +61,7 @@ export {
   useEventCallback,
   useEventListener,
   useFullScreen,
+  useHover,
   useIsFirstRender,
   useIsMounted,
   useIsomorphicEffect,
