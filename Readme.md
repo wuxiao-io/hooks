@@ -30,7 +30,7 @@
 - [ ] useDebounce
 - [ ] useDebouncedValue
 - [x] useDidMount
-- [ ] useDidUpdate
+- [x] useDidUpdate
 - [ ] useDimensionsRef
 - [ ] useDocumentEventListener
 - [x] useEffectOnce

@@ -9,6 +9,7 @@ import { useCounter } from './useCounter'
 import { useCounterdown } from './useCounterdown'
 import { useDarkMode } from './useDarkMode'
 import { useDidMount } from './useDidMount'
+import { useDidUpdate } from './useDidUpdate'
 import { useEffectOnce } from './useEffectOnce'
 import { useEffectOnceWhen } from './useEffectOnceWhen'
 import { useEventCallback } from './useEventCallback'
@@ -53,6 +54,7 @@ export {
   useCounterdown,
   useDarkMode,
   useDidMount,
+  useDidUpdate,
   useEffectOnce,
   useEffectOnceWhen,
   useEventCallback,
