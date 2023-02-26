@@ -14,6 +14,7 @@ import { useEffectOnce } from './useEffectOnce'
 import { useEffectOnceWhen } from './useEffectOnceWhen'
 import { useEventCallback } from './useEventCallback'
 import { useEventListener } from './useEventListener'
+import { useForkRef } from './useForkRef'
 import { useFullScreen } from './useFullScreen'
 import { useHover } from './useHover'
 import { useIsFirstRender } from './useIsFirstRender'
@@ -60,6 +61,7 @@ export {
   useEffectOnceWhen,
   useEventCallback,
   useEventListener,
+  useForkRef,
   useFullScreen,
   useHover,
   useIsFirstRender,

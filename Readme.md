@@ -39,7 +39,7 @@
 - [x] useEventCallback
 - [x] useEventListener
 - [ ] useFetch
-- [ ] useForkRef
+- [x] useForkRef
 - [x] useFullscreen
 - [ ] useFreshRef
 - [ ] useFreshTick
