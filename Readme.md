@@ -77,7 +77,7 @@
 - [ ] useMouse
 - [ ] useMultiSelectableList
 - [x] useMutationObserver
-- [ ] useMutationObserverRef
+- [x] useMutationObserverRef
 - [ ] useNavigatorLanguage
 - [ ] useOnClickOutside
 - [ ] useOnScreen
