@@ -49,7 +49,7 @@
 - [x] useHover
 - [ ] useImageOnLoad
 - [ ] useInput
-- [ ] useIntersectionObserver
+- [x] useIntersectionObserver
 - [x] useInterval
 - [ ] useIntervalWhen
 - [ ] useInViewRef

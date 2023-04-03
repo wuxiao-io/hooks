@@ -18,6 +18,7 @@ import { useEventListener } from './useEventListener'
 import { useForkRef } from './useForkRef'
 import { useFullScreen } from './useFullScreen'
 import { useHover } from './useHover'
+import { useIntersectionObserver } from "./useIntersectionObserver";
 import { useIsFirstRender } from './useIsFirstRender'
 import { useIsMounted } from './useIsMounted'
 import { useIsomorphicEffect } from './useIsomorphicEffect'
@@ -67,6 +68,7 @@ export {
   useForkRef,
   useFullScreen,
   useHover,
+  useIntersectionObserver,
   useIsFirstRender,
   useIsMounted,
   useIsomorphicEffect,
