@@ -38,7 +38,7 @@
 - [ ] useElementSize
 - [x] useEventCallback
 - [x] useEventListener
-- [ ] useFetch
+- [x] useFetch
 - [x] useForkRef
 - [x] useFullscreen
 - [ ] useFreshRef

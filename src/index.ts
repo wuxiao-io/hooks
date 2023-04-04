@@ -16,6 +16,7 @@ import { useEffectOnceWhen } from './useEffectOnceWhen'
 import { useElementSize } from './useElementSize'
 import { useEventCallback } from './useEventCallback'
 import { useEventListener } from './useEventListener'
+import { useFetch } from "./useFetch";
 import { useForkRef } from './useForkRef'
 import { useFullScreen } from './useFullScreen'
 import { useHover } from './useHover'
@@ -67,6 +68,7 @@ export {
   useElementSize,
   useEventCallback,
   useEventListener,
+  useFetch,
   useForkRef,
   useFullScreen,
   useHover,
