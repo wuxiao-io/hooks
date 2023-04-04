@@ -13,12 +13,13 @@ import { useDidMount } from './useDidMount'
 import { useDidUpdate } from './useDidUpdate'
 import { useEffectOnce } from './useEffectOnce'
 import { useEffectOnceWhen } from './useEffectOnceWhen'
+import { useElementSize } from './useElementSize'
 import { useEventCallback } from './useEventCallback'
 import { useEventListener } from './useEventListener'
 import { useForkRef } from './useForkRef'
 import { useFullScreen } from './useFullScreen'
 import { useHover } from './useHover'
-import { useIntersectionObserver } from "./useIntersectionObserver";
+import { useIntersectionObserver } from './useIntersectionObserver'
 import { useIsFirstRender } from './useIsFirstRender'
 import { useIsMounted } from './useIsMounted'
 import { useIsomorphicEffect } from './useIsomorphicEffect'
@@ -63,6 +64,7 @@ export {
   useDidUpdate,
   useEffectOnce,
   useEffectOnceWhen,
+  useElementSize,
   useEventCallback,
   useEventListener,
   useForkRef,
