@@ -43,8 +43,8 @@
 - [x] useFullscreen
 - [ ] useFreshRef
 - [ ] useFreshTick
-- [ ] useGeolocation
-- [ ] useGetIsMounted
+- [x] useGeolocation
+- [x] useGetIsMounted => 和useIsMounted一样
 - [ ] useHistory
 - [x] useHover
 - [ ] useImageOnLoad

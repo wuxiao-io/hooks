@@ -16,9 +16,10 @@ import { useEffectOnceWhen } from './useEffectOnceWhen'
 import { useElementSize } from './useElementSize'
 import { useEventCallback } from './useEventCallback'
 import { useEventListener } from './useEventListener'
-import { useFetch } from "./useFetch";
+import { useFetch } from './useFetch'
 import { useForkRef } from './useForkRef'
 import { useFullScreen } from './useFullScreen'
+import { useGeolocation } from './useGeolocation'
 import { useHover } from './useHover'
 import { useIntersectionObserver } from './useIntersectionObserver'
 import { useIsFirstRender } from './useIsFirstRender'
@@ -71,6 +72,7 @@ export {
   useFetch,
   useForkRef,
   useFullScreen,
+  useGeolocation,
   useHover,
   useIntersectionObserver,
   useIsFirstRender,
