@@ -19,6 +19,7 @@ import { useEventListener } from './useEventListener'
 import { useFetch } from './useFetch'
 import { useForkRef } from './useForkRef'
 import { useFullScreen } from './useFullScreen'
+import { useFreshRef } from './useFreshRef'
 import { useGeolocation } from './useGeolocation'
 import { useHover } from './useHover'
 import { useIntersectionObserver } from './useIntersectionObserver'
@@ -72,6 +73,7 @@ export {
   useFetch,
   useForkRef,
   useFullScreen,
+  useFreshRef,
   useGeolocation,
   useHover,
   useIntersectionObserver,

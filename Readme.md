@@ -41,7 +41,7 @@
 - [x] useFetch
 - [x] useForkRef
 - [x] useFullscreen
-- [ ] useFreshRef
+- [x] useFreshRef
 - [ ] useFreshTick
 - [x] useGeolocation
 - [x] useGetIsMounted => 和useIsMounted一样
