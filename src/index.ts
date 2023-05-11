@@ -20,6 +20,7 @@ import { useFetch } from './useFetch'
 import { useForkRef } from './useForkRef'
 import { useFullScreen } from './useFullScreen'
 import { useFreshRef } from './useFreshRef'
+import { useFreshTick } from "./useFreshTick";
 import { useGeolocation } from './useGeolocation'
 import { useHover } from './useHover'
 import { useIntersectionObserver } from './useIntersectionObserver'
@@ -74,6 +75,7 @@ export {
   useForkRef,
   useFullScreen,
   useFreshRef,
+  useFreshTick,
   useGeolocation,
   useHover,
   useIntersectionObserver,

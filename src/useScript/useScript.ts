@@ -6,7 +6,7 @@ export type ScriptElt = HTMLScriptElement | null;
 // NOTE: Dynamically load an external script in one line with this React hook. This can be useful to integrate a third party library
 // like Google Analytics or Stripe.
 // This avoids loading this script in the `<head> </head>` on all your pages if it is not necessary.
-function index (src: string, onload: () => void | undefined): Status {
+function useScript (src: string, onload: () => void | undefined): Status {
   const [status, setStatus] = useState<Status>(src ? 'loading' : 'idle')
 
   useEffect(
@@ -75,4 +75,4 @@ function index (src: string, onload: () => void | undefined): Status {
   return status
 }
 
-export default index
+export default useScript

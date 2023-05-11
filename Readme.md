@@ -42,7 +42,7 @@
 - [x] useForkRef
 - [x] useFullscreen
 - [x] useFreshRef
-- [ ] useFreshTick
+- [x] useFreshTick
 - [x] useGeolocation
 - [x] useGetIsMounted => 和useIsMounted一样
 - [ ] useHistory
